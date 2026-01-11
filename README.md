@@ -1,6 +1,6 @@
 # UAS Kecerdasan Buatan
-Student Performance Prediction
-Repositori ini berisi UAS untuk mata kuliah Kecerdasan Buatan.
+- Student Performance Prediction
++ Repositori ini berisi UAS untuk mata kuliah Kecerdasan Buatan.
 Nama Mahasiswa: Faqih Irianto
 NIM : 312210021
 Kelas : TI.22.SE1
