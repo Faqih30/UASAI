@@ -1,9 +1,9 @@
 # UAS Kecerdasan Buatan
 - Student Performance Prediction
 + Repositori ini berisi UAS untuk mata kuliah Kecerdasan Buatan.
-Nama Mahasiswa: Faqih Irianto
-NIM : 312210021
-Kelas : TI.22.SE1
+-- Nama Mahasiswa: Faqih Irianto
+-- NIM : 312210021
+-- Kelas : TI.22.SE1
 
 ## Deskripsi Singkat
 Project ini merupakan implementasi Kecerdasan Buatan (Supervised Learning – Classification) untuk memprediksi performa akademik siswa menggunakan dataset publik dari Kaggle.
